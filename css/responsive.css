@@ -1,0 +1,19 @@
+@media (max-width: 376px) {
+    body {
+        padding: 10px;
+    }
+    main {
+        width: auto;
+        max-height: 75vh;
+
+    }
+
+    #frase-maior {
+        font-size: 22px;
+    }
+
+    #frase-menor {
+        font-size: 14px;
+    }
+
+}

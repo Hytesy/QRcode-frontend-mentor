@@ -1,0 +1,49 @@
+body {
+background-color:hsl(212, 45%, 89%);
+text-align: center;
+padding: 60px 5px;
+}
+
+main {
+position: relative;
+background-color: hsl(0, 0%, 100%);
+display: inline-block;
+width: 350px;
+height: 500px;
+padding: 20px 10px;
+border-radius: 15px;
+}
+
+.qrcode {
+    width: 90%;
+    border-radius: 15px;
+}
+
+
+
+#frase-maior {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: hsl(218, 44%, 22%);
+}
+#frase-menor {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    display: inline-block;
+    width: 90%;
+}
+
+.criadores {
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    right: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+a {
+    color: hsl(218, 44%, 22%);
+}
