@@ -5,20 +5,13 @@ Essa é a soluçaõ para [QR code component challenge on Frontend Mentor](https:
 ## Table of contents
 
 - [Visão geral](#Visão-geral)
-  - [Links](#links)
   - [Feito com](#Feito-com)
-  - [What I learned](#O-que-aprendi)
+  - [O que eu aprendi](#O-que-aprendi)
 - [Autor](#autor)
 
 
 ## Visão-geral
 Esse projeto, é um desafio de HTML e CSS básico da plataforma Frontend Mentor
-
-### Links
-
--URL da Solução: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 
 ### Feito-com
 
@@ -27,7 +20,7 @@ Esse projeto, é um desafio de HTML e CSS básico da plataforma Frontend Mentor
 
 ### O-que-aprendi
 
-Creio que não muita coisa, já que só apliquei o pouco que eu sabia, talvez só aprendi que também da para colocar cores com '''hsl'''
+Creio que não muita coisa, já que só apliquei o pouco que eu sabia, talvez só aprendi que também da para colocar cores com "hsl"
 
 
 ## Autor
